@@ -1,0 +1,5 @@
+com\apirest\paises\PaisesApplication.class
+com\apirest\paises\repository\PaisRepository.class
+com\apirest\paises\models\Pais.class
+com\apirest\paises\config\SwaggerConfig.class
+com\apirest\paises\controller\PaisController.class
