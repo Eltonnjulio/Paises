@@ -9,4 +9,4 @@
  * Deve configurar os dados e as credênciais para o acesso a base de dados no ficheiro 'Paises/src/main/resources/application.properties'
  * Criar a base de dados, ao fazer run as tabelas serão criadas automaticamente na base de dados
 
-### documentação da api : <a target="_blank" id="my-anchor">https://apirest-paises.herokuapp.com/swagger-ui.html</a>
+### documentação da api : <a  id="my-anchor" target="_blank" href="https://apirest-paises.herokuapp.com/swagger-ui.html">clique aqui</a>
